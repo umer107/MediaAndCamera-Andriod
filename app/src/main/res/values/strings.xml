@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MediaAndCamera</string>
+    <string name="Record">Record</string>
+    <string name="Stop">Stop</string>
+    <string name="play">Play</string>
+    <string name="StopPlayingRecording">StopPlayingRecording</string>
+</resources>
